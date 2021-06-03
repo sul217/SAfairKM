@@ -26,8 +26,8 @@ We designed and implemented a novel stochastic alternating balance fair <img src
 
 `utils.py`: contains all the necessary functions and class for the algorithm implementation. 
 
-The data folder includes two real datasets--- Adult and Bank datasets. 
+The data folder includes two real datasets: Adult and Bank datasets. 
 
 ## 4. Examples
 
-
+<img src="data/Comparison_Pareto_front_dataSynthetic2-equal_numpts592.pdf" width="600px" style="float: right;">
