@@ -1,7 +1,7 @@
 # A Stochastic Alternating Balance <img src="https://latex.codecogs.com/svg.latex?\Large&space;k" title="\Large k"/>-Means Algorithm for Fair Clustering
 
 
-This is the numerical implementation for a recent work **A Stochastic Alternating Balance $k$-Means Algorithm for Fair Clustering**.  
+This is the numerical implementation for a recent work **A Stochastic Alternating Balance <img src="https://latex.codecogs.com/svg.latex?\Large&space;k" title="\Large k"/>-Means Algorithm for Fair Clustering**.  
 
 ## 1. Package requirements
 
@@ -26,8 +26,8 @@ We designed and implemented a novel stochastic alternating balance fair $k$-mean
 
 `utils.py`: contains all the necessary functions and class for the algorithm implementation. 
 
-The 'data' folder includes two real datasets--- Adult and Bank datasets. 
+The data folder includes two real datasets--- Adult and Bank datasets. 
 
-## 5. Examples
-The figure below shows the full trade-off between accuracy and fairness w.r.t. disparate impact using Adult income dataset and taking gender as the sensitive attribute. $f_1(x)$ and $f_2(x)$ refer to prediction loss and squared convariance approximation for disparate impact. 
+## 4. Examples
+
 
