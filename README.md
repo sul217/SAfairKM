@@ -17,7 +17,7 @@ The code was implemented using Python 3.6
 
 
 ## 2. Project goal
-We designed and implemented a novel stochastic alternating balance fair $k$-means (SAfairKM) algorithm, inspired from the classical mini-batch $k$-means algorithm, which essentially consists of alternatively taking pure mini-batch $k$-means updates and swap-based balance improvement updates. Then, we frame it to a Pareto front version in order to construct a good approximation of the entire Pareto fronts defining the best trade-offs between fair $k$-means cost and balance.
+We designed and implemented a novel stochastic alternating balance fair <img src="https://latex.codecogs.com/svg.latex?\large&space;k" title="\large k"/>-means (SAfairKM) algorithm, inspired from the classical mini-batch <img src="https://latex.codecogs.com/svg.latex?\large&space;k" title="\large k"/>-means algorithm, which essentially consists of alternatively taking pure mini-batch $k$-means updates and swap-based balance improvement updates. Then, we frame it to a Pareto front version in order to construct a good approximation of the entire Pareto fronts defining the best trade-offs between fair $k$-means cost and balance.
 
 
 ## 3. Files description
