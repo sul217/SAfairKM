@@ -1,6 +1,8 @@
-# A Stochastic Alternating Balance $`k`$-Means Algorithm for Fair Clustering
+# A Stochastic Alternating Balance $k$-Means Algorithm for Fair Clustering
 
-This is the numerical implementation for a recent work **A Stochastic Alternating Balance $`k`$-Means Algorithm for Fair Clustering**.  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+This is the numerical implementation for a recent work **A Stochastic Alternating Balance $k$-Means Algorithm for Fair Clustering**.  
 
 ## 1. Package requirements
 
